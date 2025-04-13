@@ -1,4 +1,4 @@
-module github.com/ChristianSch/openrouter-websearch-mcp
+module github.com/Hisma/openrouter-websearch-mcp
 
 go 1.24
 
